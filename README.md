@@ -1,5 +1,4 @@
-# Firebase Studio
+# Frideg Chef
 
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+this project is for EDUNET MS AINSI internship
+Live Website [https://fridge-chef-two.vercel.app/]
